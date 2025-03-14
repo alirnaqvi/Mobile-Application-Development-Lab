@@ -20,8 +20,6 @@ This lab focuses on understanding the **architecture of Flutter applications** a
 🔹 Implemented a **Splash Screen** that transitions to the **Home Screen**.  
 🔹 Utilized **Navigator** to manage screen navigation.  
 
-🔗 **GitHub Repository:** [Twitter Clone](https://github.com/saadHassanButt/flutter-twitter-clone)  
-
 ---
 
 ### **2️⃣ Developing a Facebook Loading Screen**  
@@ -29,8 +27,6 @@ This lab focuses on understanding the **architecture of Flutter applications** a
 🔹 Integrated **Meta branding icons** (Facebook, Instagram, Messenger, WhatsApp).  
 🔹 Designed a **column-based UI structure** to maintain responsive alignment.  
 🔹 Used **delayed navigation** to transition to the **Home Screen**.  
-
-🔗 **GitHub Repository:** [Facebook Loading Screen](https://github.com/saadHassanButt/fb-loadin)  
 
 ---
 
@@ -40,9 +36,7 @@ This lab focuses on understanding the **architecture of Flutter applications** a
 🔹 Designed a **structured UI layout** with buttons for different scoring actions.  
 🔹 Added a **reset feature** to clear scores for a new game.  
 
-🔗 **GitHub Repository:** [Court Counter App](https://github.com/saadHassanButt/court-counter)  
-
 ---
 
 ## **Repository**  
-📂 [**Mobile-Application-Development-Lab**](https://github.com/alirnaqvi/Mobile-Application-Development-Lab)  
+📂 [[**Mobile-Application-Development-Lab**](https://github.com/alirnaqvi/Mobile-Application-Development-Lab) ](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2004) 
