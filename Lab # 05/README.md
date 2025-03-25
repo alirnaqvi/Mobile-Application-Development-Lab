@@ -31,4 +31,4 @@ This lab focuses on creating different custom widgets for Flutter applications a
 🔹 Ensured smooth transitions and user-friendly interactions.
 
 ## Repository
-📂 [Mobile-Application-Development-Lab](https://github.com/alirnaqvi/Mobile-Application-Development-Lab)
+📂 [(https://github.com/alirnaqvi/Mobile-Application-Development-Lab)](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2005)
