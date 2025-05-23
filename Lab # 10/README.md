@@ -42,4 +42,4 @@ This lab focuses on building a multi-screen Flutter application that captures an
 🔹 Provided basic UI feedback to simulate authentication.
 
 ## Repository  
-📂 [(https://github.com/alirnaqvi/Mobile-Application-Development-Lab)](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2010)
+📂 [(https://github.com/alirnaqvi/Mobile-Application-Development-Lab)]([https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2010](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2010))
