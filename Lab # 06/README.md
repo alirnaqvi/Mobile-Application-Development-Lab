@@ -46,4 +46,4 @@ This lab focuses on creating a **chat application** using **custom layout widget
 🔹 Made the chat visually appealing and user-friendly.
 
 ## Repository  
-📂 [(https://github.com/alirnaqvi/Mobile-Application-Development-Lab)](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2006)
+📂 [(https://github.com/alirnaqvi/Mobile-Application-Development-Lab)]([https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2006](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/Lab%20%23%2006))
