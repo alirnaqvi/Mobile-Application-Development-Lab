@@ -57,17 +57,17 @@ This project was developed as the final lab exam for:
 
 ---
 
-## 📁 Folder Structure
+## 📂 Project Structure
 
 lib/
 ├── db/
-│ └── notes_database.dart # SQLite helper
+│ └── notes_database.dart # SQLite database helper class for CRUD operations
 ├── models/
-│ └── note.dart # Note model class
+│ └── note.dart # Note data model class
 ├── screens/
-│ ├── home_screen.dart # Home screen with list & search
-│ └── note_detail_screen.dart # Create/Edit note screen
-└── main.dart # App entry point
+│ ├── home_screen.dart # Home screen displaying list of notes with search functionality
+│ └── note_detail_screen.dart # Screen to create or edit a note
+└── main.dart # Application entry point
 
 ---
 
@@ -81,7 +81,7 @@ lib/
 
 
 📎 GitHub Repository
-🔗 [Insert GitHub Repo Link Here]
+🔗 [[My Notes (Final Exam)]](https://github.com/alirnaqvi/Mobile-Application-Development-Lab/tree/main/My%20Notes%20(Final%20Exam))
 
 Syed Muhammad Ali Raza Naqvi
 Enrollment: 01-134222-149
